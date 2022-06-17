@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.ana_baslik{
+    color:brown;
+}
+
+.on_bilgi{
+    color:brown;
+    text-decoration: underline;
+}
+
+.ana_bilgi{
+    position: relative;
+    left: 320px;
+}
+
+.a-o{
+    position: relative;
+    left: 1000px;
+}
